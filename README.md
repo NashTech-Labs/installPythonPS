@@ -8,4 +8,3 @@ This template can be used to run a powershell script which install and add path 
 * Powershell version >= 5.1
 * **Cross check on Powershell**
     $PSVersion
-
